@@ -22,7 +22,7 @@ table 50000 TableTest
 
     trigger OnInsert()
     begin
-        Message('Hallo');
+        Message('Hallo123');
     end;
 
     trigger OnModify()
